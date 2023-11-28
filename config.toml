@@ -1,0 +1,35 @@
+base_url = "https://axect.github.io"
+title = "Axect's Blog"
+description = "Axect's Blog"
+
+compile_sass = true
+generate_feed = true
+build_search_index = false
+taxonomies = [
+  { name = "tags", feed = true },
+]
+
+theme = "zola-resume"
+
+[markdown]
+highlight_code = true
+highlight_theme = "OneHalfLight"
+
+[extra]
+first_name = "Tae-Geun"
+last_name = "Kim"
+nick_name = "Axect"
+address = "Seoul, Republic of Korea"
+email = "ax2ct@outlook.com"
+favicon = "/favicon.ico"
+avatar = "/media/axect_profile.png"
+
+katex = true
+show_about = true
+show_skills = true
+show_projects = true
+show_opensource = false
+show_publications = true
+show_experience = true
+show_education = true
+show_blog = true

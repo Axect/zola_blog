@@ -1,0 +1,76 @@
+[
+  {
+    "grouping": "Languages, Operating Systems & Tools",
+    "skills": [
+      "Rust",
+      "Python",
+      "Julia",
+      "Cplusplus",
+      "Haskell",
+      "Go",
+      "R",
+      "Matlab",
+      "latex",
+      "git",
+      "linux",
+      "ubuntu",
+      "bash"
+    ]
+  },
+  {
+    "grouping": "Numerical Computation Libraries",
+    "skills": [
+      {
+        "name": "Peroxide",
+        "icon": "Rust"
+      },
+      "Numpy",
+      "Pandas"
+    ]
+  },
+  {
+    "grouping": "Machine Learning Frameworks",
+    "skills": [
+      "PyTorch",
+      {
+        "name": "PyTorch-Lightning",
+        "icon": "PyTorch"
+      },
+      {
+        "name": "TensorFlow",
+        "type": "original"
+      }
+    ]
+  },
+  {
+    "grouping": "Web Frameworks & Tools",
+    "skills": [
+      "Hugo",
+      "Django",
+      "Apache",
+      "Firebase",
+      {
+        "name": "Zola",
+        "icon": "Rust"
+      },
+      {
+        "name": "Surge",
+        "icon": "npm",
+        "type": "original-wordmark"
+      }
+    ]
+  },
+  {
+    "grouping": "Editors",
+    "skills": [
+      "Vim",
+      {
+        "name": "Neovim",
+        "icon": "Vim"
+      },
+      "VSCode",
+      "Jupyter",
+      "IntelliJ"
+    ]
+  }
+]
