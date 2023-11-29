@@ -1,14 +1,16 @@
 ---
 title: "DeeLeMa"
-date: 2023-11-28
+date: 2023-11-10
+weight: 3
 extra:
   featured: true
   link: https://github.com/Yonsei-HEPCOSMO/DeeLeMa
   image: /media/DeeLeMa.png
+  version: 0.1.0
 description: Deep learning for mass estimation.
   <ul>
-  <li> Build with a foundation on symmetric event topology </li>
-  <li> Estimate the missing energy-momenta distribution </li>
+  <li> Build with a foundation on symmetric event topology. </li>
+  <li> Estimate the missing energy-momenta distribution. </li>
   </ul>
 taxonomies:
   tags:

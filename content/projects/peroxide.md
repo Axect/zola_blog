@@ -1,17 +1,17 @@
 ---
 title: Peroxide
-date: 2023-11-28
+date: 2023-11-25
+weight: 0
 extra:
   featured: true
   link: https://github.com/Axect/Peroxide
   image: /media/peroxide_logo.png
+  version: 0.34.3
 description: A comprehensive numerical computation library for Rust.
   <ul>
   <li> Linear algebra with various matrix and vector operations. </li>
   <li> Numerical integrations and automatic differentiation. </li>
-  <li> Statistics with various probability distributions. </li>
-  <li> Splines and interpolations. </li>
-  <li> Optimization, root finding, and differential equation solving. </li>
+  <li> Statistics optimization, root finding, and differential equation solving. </li>
   </ul>
 taxonomies:
   tags:
