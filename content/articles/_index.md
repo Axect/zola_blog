@@ -5,10 +5,8 @@ date: 2023-11-30
 
 &nbsp;
 
-### [- Main Blog](./blog)
-
+### [- Main Blog](https://axect.github.io/blog)
 
 &nbsp;
-
 
 ### [- Medium](https://medium.com/@edeftg)
