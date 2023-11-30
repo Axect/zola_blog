@@ -5,8 +5,8 @@ date: 2023-11-30
 
 &nbsp;
 
-### [- Main Blog](https://axect.github.io/blog)
+<h3><a href="https://axect.github.io/blog" target="_blank">- Main Blog</a></h3>
 
 &nbsp;
 
-### [- Medium](https://medium.com/@axect)
+<h3><a href="https://medium.com/@axect" target="_blank">- Medium</a></h3>

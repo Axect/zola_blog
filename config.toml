@@ -1,6 +1,6 @@
 base_url = "https://axect.github.io"
-title = "Axect's Blog"
-description = "Axect's Blog"
+title = "Axect's CV"
+description = "Axect's CV"
 
 compile_sass = true
 generate_feed = true
