@@ -1,3 +1,4 @@
+rm -rf ../cv/*
 rm -rf public/
 zola build
-cp -r public/* ../axect.github.io/
+cp -r public/* ../cv/
