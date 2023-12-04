@@ -5,7 +5,7 @@ date: 2023-11-30
 
 &nbsp;
 
-<h3><a href="https://axect.github.io/blog" target="_blank">- Main Blog</a></h3>
+<h3><a href="https://axect.github.io" target="_blank">- Main Blog</a></h3>
 
 &nbsp;
 
