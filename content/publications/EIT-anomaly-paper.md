@@ -4,10 +4,10 @@ date: 2023-05-16
 weight: 0
 extra:
   featured: true
-  link: https://arxiv.org/abs/2305.09368
+  link: https://doi.org/10.1016/j.cmpb.2024.108079
   bibtex: /media/EIT-anomaly.bib
   pubtype: Article
-  image: /media/arxiv-logo.svg
+  image: /media/Elsevier.svg
 
 description: "This study introduces an unsupervised learning approach to assess motion-induced reliability degradation of cardiac volume signals (CVS) in multi-channel electrical impedance-based hemodynamic monitoring.
   <ul>
@@ -39,17 +39,22 @@ This study proposes an unsupervised sequence-to-sequence learning approach that 
 
 ## Important links
 
+- [CMPB 108079](https://doi.org/10.1016/j.cmpb.2024.108079)
 - [ArXiv: 2305.09368](https://arxiv.org/abs/2305.09368)
 
 ## Citation
 
 ```bib
-@misc{hyun2023unsupervised,
-      title={Unsupervised sequence-to-sequence learning for automatic signal quality assessment in multi-channel electrical impedance-based hemodynamic monitoring}, 
-      author={Chang Min Hyun and Tae-Geun Kim and Kyounghun Lee},
-      year={2023},
-      eprint={2305.09368},
-      archivePrefix={arXiv},
-      primaryClass={eess.SP}
+@article{HYUN2024108079,
+  title         = {Unsupervised sequence-to-sequence learning for automatic signal quality assessment in multi-channel electrical impedance-based hemodynamic monitoring},
+  journal       = {Computer Methods and Programs in Biomedicine},
+  volume        = {247},
+  pages         = {108079},
+  year          = {2024},
+  issn          = {0169-2607},
+  doi           = {https://doi.org/10.1016/j.cmpb.2024.108079},
+  url           = {https://www.sciencedirect.com/science/article/pii/S0169260724000750},
+  author        = {Chang Min Hyun and Tae-Geun Kim and Kyounghun Lee},
+  keywords      = {Cardiopulmonary monitoring, Electrical impedance, Signal quality assessment, Time-series anomaly detection, Unsupervised learning, Recurrent neural network, Variational auto-encoder}
 }
 ```
