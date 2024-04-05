@@ -1,12 +1,12 @@
 ---
 title: Peroxide
-date: 2023-11-25
+date: 2024-03-29
 weight: 0
 extra:
   featured: true
   link: https://github.com/Axect/Peroxide
   image: /media/peroxide_logo.png
-  version: 0.34.3
+  version: 0.35.1
 description: A comprehensive numerical computation library for Rust.
   <ul>
   <li> Linear algebra with various matrix and vector operations. </li>
