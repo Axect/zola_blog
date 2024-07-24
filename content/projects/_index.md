@@ -1,6 +1,5 @@
 ---
 title: Projects
-date: 2023-11-28
 sort_by: weight
 ---
 

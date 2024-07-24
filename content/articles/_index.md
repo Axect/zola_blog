@@ -1,6 +1,5 @@
 ---
 title: articles
-date: 2023-11-30
 ---
 
 &nbsp;

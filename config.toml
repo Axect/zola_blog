@@ -3,7 +3,7 @@ title = "Axect's CV"
 description = "Axect's CV"
 
 compile_sass = true
-generate_feed = true
+generate_feeds = false
 build_search_index = false
 taxonomies = [
   { name = "tags", feed = true },
