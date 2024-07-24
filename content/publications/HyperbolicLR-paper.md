@@ -35,7 +35,8 @@ This study proposes two novel learning rate schedulers: the Hyperbolic Learning 
 
 ## Important links
 
-- [GitHub: HyperbolicLR](https://github.com/Axect/HyperbolicLR)
+- [arXiv: 2407.15200](https://arxiv.org/abs/2407.15200)
+- [GitHub: Axect/HyperbolicLR](https://github.com/Axect/HyperbolicLR)
 
 ## Citation
 
